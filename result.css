@@ -1,0 +1,44 @@
+img{
+  width: 100%;
+}
+.box {
+  background-color: rgba(190, 185, 192, 0.226);
+  width: 70%;
+  height: 100%;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin-top: 150px;
+}
+.inbox{
+  border-radius: 10px;
+  height: 400px;
+  width: 370px;
+  background-color: blue;display: flex;
+  /* margin-left: 150px; */
+  /* margin-top: 150px; */
+}
+
+.div1{
+  border-radius: 10px;
+  height: 400px;
+  width: 750px;
+  background-color: rgba(190, 185, 192, 0.226);display: flex;
+  margin-left: 200px;margin-top: 150px;
+}
+.para{
+  color: white;padding-left: 150px;
+}
+.circle{
+  /* background: linear-gradient(rgb(4, 4, 125) ,rgb(138, 138, 245));
+  border-radius: 900px;height: 100px; */
+    position: relative;
+    background-color: rgb(124, 52, 192);
+    border-radius: 100px;
+    height: 130px;
+    width: 130px;
+    text-align: center;
+    margin-top: 70px;
+    margin-left: -110px;
+} 
